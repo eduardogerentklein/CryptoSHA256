@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CryptoSHA256/1.0.0": {
+        "runtime": {
+          "CryptoSHA256.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CryptoSHA256/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

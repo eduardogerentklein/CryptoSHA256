@@ -1,0 +1,13 @@
+C:\Users\Eduardo Klein\source\repos\CryptoSHA256\CryptoSHA256\bin\Debug\netcoreapp3.1\CryptoSHA256.exe
+C:\Users\Eduardo Klein\source\repos\CryptoSHA256\CryptoSHA256\bin\Debug\netcoreapp3.1\CryptoSHA256.deps.json
+C:\Users\Eduardo Klein\source\repos\CryptoSHA256\CryptoSHA256\bin\Debug\netcoreapp3.1\CryptoSHA256.runtimeconfig.json
+C:\Users\Eduardo Klein\source\repos\CryptoSHA256\CryptoSHA256\bin\Debug\netcoreapp3.1\CryptoSHA256.runtimeconfig.dev.json
+C:\Users\Eduardo Klein\source\repos\CryptoSHA256\CryptoSHA256\bin\Debug\netcoreapp3.1\CryptoSHA256.dll
+C:\Users\Eduardo Klein\source\repos\CryptoSHA256\CryptoSHA256\bin\Debug\netcoreapp3.1\CryptoSHA256.pdb
+C:\Users\Eduardo Klein\source\repos\CryptoSHA256\CryptoSHA256\obj\Debug\netcoreapp3.1\CryptoSHA256.csprojAssemblyReference.cache
+C:\Users\Eduardo Klein\source\repos\CryptoSHA256\CryptoSHA256\obj\Debug\netcoreapp3.1\CryptoSHA256.AssemblyInfoInputs.cache
+C:\Users\Eduardo Klein\source\repos\CryptoSHA256\CryptoSHA256\obj\Debug\netcoreapp3.1\CryptoSHA256.AssemblyInfo.cs
+C:\Users\Eduardo Klein\source\repos\CryptoSHA256\CryptoSHA256\obj\Debug\netcoreapp3.1\CryptoSHA256.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Klein\source\repos\CryptoSHA256\CryptoSHA256\obj\Debug\netcoreapp3.1\CryptoSHA256.dll
+C:\Users\Eduardo Klein\source\repos\CryptoSHA256\CryptoSHA256\obj\Debug\netcoreapp3.1\CryptoSHA256.pdb
+C:\Users\Eduardo Klein\source\repos\CryptoSHA256\CryptoSHA256\obj\Debug\netcoreapp3.1\CryptoSHA256.genruntimeconfig.cache
